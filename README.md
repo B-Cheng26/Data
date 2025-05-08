@@ -3,7 +3,7 @@ This repository contains recorded data for exoskeleton force tracking in the man
 # Introduction
 The hip exoskeleton force tracking data contained in this repository was collected by the School of Artificial Intelligence at Anhui University of Science and Technology (AUST) and is designed for hip exoskeleton performance analysis. The data was collected by subjects wearing the hip exoskeleton designed in the study while walking on a treadmill in a straight line at two different speeds, at a uniform speed, suitable for hip exoskeleton research.
 # Equipment and Sensors
-Equipment: Wearable Hip Exoskeleton
+Equipment: Wearable Hip Exoskeleton. 
 Sensors: Piezoresistive Sensor, Placed on the contact surface of the leg brace with the human leg, it is used to record the auxiliary force of the exoskeleton. Inertial sensors measure the tilt angle of the leg braces.
 # Experimental Procedure
 Forty healthy subjects (20 males and 20 females, all between 20 and 35 years of age) with no history of lower limb disease were invited to participate in the experiment. All subjects volunteered to participate in this experiment in an informed manner and signed a consent form to participate in the experiment. The experiment was approved by the Ethics Committee. Each subject walked on the treadmill at 2.5km/h and 3.5km/h in a straight line at a uniform speed, and three sets of data were recorded for each walking speed. For the convenience of the experimental operation, a single leg was chosen to be analyzed, and the force tracking data were recorded and analyzed from the three phases of heel strike, ball of foot strike, and toe-off, i.e., the curves between points “A” and “B” in the figure below.
