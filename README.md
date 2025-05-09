@@ -1,7 +1,7 @@
 # Data
 This repository contains recorded data for exoskeleton force tracking in the manuscript [Design and Validation of a Brain-Controlled Hip Exoskeleton for Assisted Gait Rehabilitation Training].
 # Introduction
-The hip exoskeleton force tracking data in this repository was collected by an experimental team from the School of Artificial Intelligence at Anhui University of Technology for hip exoskeleton performance analysis. For data collection, subjects wore the hip exoskeleton designed for this study and walked at a constant speed on a horizontal surface and a 5° slope surface. The data collected was applied to the hip exoskeleton study.
+The hip exoskeleton force tracking data in this repository was collected by an experimental team from the School of Artificial Intelligence at Anhui University of Science and Technology for hip exoskeleton performance analysis. For data collection, subjects wore the hip exoskeleton designed for this study and walked at a constant speed on a horizontal surface and a 5° slope surface. The data collected was applied to the hip exoskeleton study.
 # Equipment and Sensors
 Equipment: Wearable Hip Exoskeleton. 
 Sensors: Piezoresistive Sensor, Placed on the contact surface of the leg brace with the human leg, it is used to record the auxiliary force of the exoskeleton. Inertial sensors measure the tilt angle of the leg braces.
