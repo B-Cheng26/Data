@@ -14,3 +14,6 @@ Three sets of data were recorded for each subject in each training scenario, eac
 Figure 1: Hip exoskeleton-assisted force tracking during multiple consecutive gait cycles of subjects walking at constant speed on a horizontal surface.
 ![image](https://github.com/user-attachments/assets/90c49a62-ae6f-4cf6-bfa9-75b4b979d443)
 Figure 2: Hip exoskeleton-assisted force tracking of subjects over multiple consecutive gait cycles during uniform speed walking on a 5° slope surface.
+# LICENSE
+This dataset is released under open data sharing principles. Users can freely use, modify, and distribute the data with proper attribution.
+If you have any questions, feel free to raise an issue.
